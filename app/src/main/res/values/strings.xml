@@ -1,8 +1,40 @@
 <resources>
-    <string name="app_name">treseenergiaapp</string>
+    <string name="app_name">3E Energia</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="menu0">3E Energia</string>
+    <string name="menu1">Instalações Elétricas</string>
+    <string name="menu2">Projetos Elétricos</string>
+    <string name="menu3">Energia Fotovoltáica</string>
+    <string name="menu4">Refrigeração</string>
+    <string name="menu5">Meus Orçamentos</string>
+    <string name="adicionar_orcamento">Adicionar Orçamento</string>
+
+    <string-array name="tipo_imovel">
+        <item>Casa</item>
+        <item>Apartamento</item>
+        <item>Outro</item>
+    </string-array>
+
+    <string-array name="ambientes">
+        <item>Quarto</item>
+        <item>Banheiro</item>
+        <item>Cozinha</item>
+        <item>Terraço</item>
+        <item>Hall</item>
+        <item>Área Externa</item>
+        <item>Área Interna</item>
+        <item>Sala</item>
+        <item>Outro</item>
+    </string-array>
+
+    <string-array name="telhados">
+        <item>Telha de Alumínio</item>
+        <item>Laje</item>
+        <item>Madeira</item>
+    </string-array>
 </resources>
